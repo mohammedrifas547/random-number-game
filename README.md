@@ -13,7 +13,7 @@ A simple number guessing game built using HTML and JavaScript.
 - JavaScript (Vanilla)
 
 ## 💻 Live Demo
-🔗 [Play Here](https://mohammedrifas547.github.io/random-number-game)  
+🔗 [Play Here](file:///C:/Users/samee/Desktop/JavaScript/game.html)  
 *(Link will work after GitHub Pages is enabled — see below)*
 
 ## 📁 How to Run Locally
